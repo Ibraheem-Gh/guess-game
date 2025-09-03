@@ -28,9 +28,7 @@
   - `tkinter` (مضمنة مع بايثون)
   - `playsound`
   
-  لتثبيت مكتبة `playsound`:
-  ```bash
-  pip install playsound
+
 
 ## 📁 هيكل المشروع:
   guess_game_project/
@@ -45,3 +43,7 @@
   ├── guess_game.py
   │
   └── README.md
+
+##  لتثبيت مكتبة `playsound`:
+  ```bash
+    pip install playsound

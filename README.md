@@ -22,7 +22,7 @@
   - `tkinter` (مضمنة مع بايثون)
   - `playsound`
   
-##  لتثبيت مكتبة `playsound`:
+###  لتثبيت مكتبة `playsound`:
   ```bash
     pip install playsound
 
